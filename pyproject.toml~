@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "time_series_analysis_book"
+version = "0.1.0"
+description = ""
+authors = ["swhustla <fdkelly@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = ">=3.9,<3.11"
+dython = "^0.7.0"
+scipy = "^1.8.0"
+numpy = "^1.22.2"
+pandas = "^1.4.0"
+seaborn = "^0.11.2"
+scikit-learn = "^1.0.2"
+jupyterlab = "^3.2.9"
+black = "^22.1.0"
+nb-black = "^1.0.7"
+statsmodels = "^0.13.2"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
