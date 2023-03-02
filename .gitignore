@@ -4,3 +4,4 @@ docs/B17577_E-Book_RC.pdf
 notebooks/*.bz2
 notebooks/*/*.pyc
 notebooks/agents/*.hdf5
+data/*.csv
