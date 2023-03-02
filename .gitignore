@@ -5,3 +5,4 @@ notebooks/*.bz2
 notebooks/*/*.pyc
 notebooks/agents/*.hdf5
 data/*.csv
+notebooks/.ipynb_checkpoints/*
