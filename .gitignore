@@ -3,4 +3,4 @@ llvmlite-0.35.0-cp36-cp36m-win_amd64.whl
 docs/B17577_E-Book_RC.pdf
 notebooks/*.bz2
 notebooks/*/*.pyc
-
+notebooks/agents/*.hdf5
