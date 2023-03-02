@@ -6,3 +6,4 @@ notebooks/*/*.pyc
 notebooks/agents/*.hdf5
 data/*.csv
 notebooks/.ipynb_checkpoints/*
+deep_learning_folder/.ipynb_checkpoints/*
